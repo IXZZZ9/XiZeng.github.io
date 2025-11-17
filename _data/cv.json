@@ -1,152 +1,130 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Xi Zeng",
+    "email": "zeng0115@bu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://IXZZZ9.github.io",
+    "summary": "MS Computer Science student at Boston University specializing in continual learning and catastrophic forgetting in AI systems. Research Assistant in Professor Reza Rawassizadeh's group.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Boston",
       "countryCode": "US",
-      "region": ""
+      "region": "MA"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=9njDsJYAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "IXZZZ9",
+        "url": "https://github.com/IXZZZ9"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0007-8352-9610",
+        "url": "https://orcid.org/0009-0007-8352-9610"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Boston University",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024",
+      "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "courses": ["Statistical Machine Learning", "Advanced Machine Learning", "Generative AI", "Advanced Database Management"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Rutgers University",
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2021",
+      "endDate": "2024",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": ["Data Mining", "Web Mining", "Artificial Intelligence", "Linear Algebra", "Discrete Mathematics"]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "keywords": ["Python", "R", "MATLAB", "Java", "SQL"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Advanced",
+      "keywords": ["PyTorch", "TensorFlow", "scikit-learn", "Deep Learning", "Statistical Analysis"]
+    },
+    {
+      "name": "Tools",
+      "level": "Proficient",
+      "keywords": ["Git", "Docker", "Linux/UNIX", "Jupyter", "LaTeX"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Continual Learning",
+      "keywords": ["Catastrophic Forgetting", "Gradient Flow Analysis", "Lifelong Learning"]
+    },
+    {
+      "name": "Large Language Models",
+      "keywords": ["Efficient Training", "Domain Adaptation", "Parameter-Efficient Fine-tuning"]
+    },
+    {
+      "name": "Medical AI",
+      "keywords": ["Interpretable ML", "Clinical Decision Support", "Biomedical Signal Processing"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping",
+      "publisher": "Submitted to ICLR 2026",
+      "releaseDate": "2025-01-01",
+      "website": "https://arxiv.org/abs/2509.01842",
+      "summary": "Novel training optimization method achieving 30-50% speedup in transformer training through intelligent gradient-based early stopping mechanisms."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Analysis of Dyslipidemia Management Based on the DYSIS-China Study",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2025-02-01",
+      "website": "",
+      "summary": "Comprehensive statistical analysis of dyslipidemia management patterns in China with ML-based risk stratification."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Robust and Interpretable Silent Speech Recognition from High-Density sEMG Using Deep Forest",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2025-03-01",
+      "website": "",
+      "summary": "Interpretable framework achieving robust performance with 40% fewer electrodes through Deep Forest-based feature importance analysis."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "MET CS 767: Advanced Database Management Systems",
+      "institution": "Boston University",
+      "date": "2025-01-15",
+      "role": "Teaching Assistant",
+      "description": "Support 45+ graduate students in understanding distributed systems and database optimization"
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
