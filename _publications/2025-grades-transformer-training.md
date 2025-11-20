@@ -24,4 +24,4 @@ Training large transformer models is computationally expensive and time-consumin
 
 ## Resources
 
-[arXiv Paper](https://arxiv.org/abs/2509.01842) | [GitHub Code](https://github.com/username/grades) | [Hugging Face Demo](https://huggingface.co/spaces/username/grades)
+[arXiv Paper](https://arxiv.org/abs/2509.01842) | [GitHub Code](https://github.com/IXZZZ9/GradES) |
