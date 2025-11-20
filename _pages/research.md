@@ -5,78 +5,46 @@ permalink: /research/
 author_profile: true
 ---
 
-My research addresses the fundamental challenge of **catastrophic forgetting** in modern AI systems—how neural networks lose previously learned knowledge when acquiring new capabilities. This problem is pervasive across large language models, vision systems, and reinforcement learning agents, limiting their deployment in dynamic real-world environments.
+My research focuses on efficient machine learning methods and interpretable medical AI systems. I work on practical approaches to improve training efficiency and develop reliable AI applications in healthcare.
 
-## Core Research Vision
+## Active Research Projects
 
-I aim to develop principled approaches enabling AI systems to **learn continuously throughout their lifetime**, accumulating knowledge and capabilities while preserving what they have already learned. My work bridges theoretical understanding of gradient flow dynamics with practical algorithmic innovations for large-scale systems.
+### Efficient Training for Transformers
 
-## Research Areas
+**GradES: Gradient-Based Early Stopping** (Submitted to MLsys 2026)
+- Co-first author on novel training optimization method
+- Achieves significant speedups in transformer training through gradient monitoring
+- Open-source implementation released on GitHub, PyPI, and Hugging Face
 
-### Continual Learning and Gradient Flow Analysis
-
-**Key Insight**: Catastrophic forgetting is fundamentally a gradient geometry problem. When neural networks learn sequential tasks, gradient updates create weight perturbations that destroy previously learned decision boundaries.
-
-**Current Focus**:
-- Characterizing gradient flow dynamics in large-scale architectures during continual learning
-- Developing mathematical frameworks to predict parameter vulnerability to forgetting
-- Designing scalable algorithms that leverage gradient flow analysis for selective parameter updates
-
-**Project**: **ActionRes Framework**
-- First systematic connection between delta actions and catastrophic forgetting dynamics
-- Investigates knowledge accessibility versus destruction during sequential learning
-- Explores how residual architectures preserve learned representations
-
-### Efficient Training Methods for Deep Learning
-
-**Project**: **GradES (Gradient-Based Early Stopping)**
-- Co-first author on submission to ICLR 2026
-- Achieves significant speedups in transformer training through intelligent gradient monitoring
-- Demonstrates how gradient analysis optimizes both efficiency and knowledge preservation
-- Released open-source implementation on GitHub, PyPI, and Hugging Face
+**Key Activities at Boston University**:
+- Present weekly reviews of recent ML/AI publications from leading conferences and journals
+- Implement prototypes and experiment with novel concepts
+- Lead implementation and experimental design for research projects
 
 ### Medical AI and Interpretability
 
-**Atherosclerosis Detection System**
+**Interpretable Silent Speech Recognition** (Manuscript in preparation)
+- Developed robust recognition system using high-density sEMG signals
+- Applied Deep Forest algorithm with MDI interpretability for electrode selection
+- Demonstrated significant performance with reduced electrodes, enabling cost-effective deployment
+
+**Atherosclerosis Detection System** (Manuscript in preparation)
+- Applied statistical methods to analyze dyslipidemia management data
 - Developed predictive models using multivariate health metrics
-- Applied rigorous statistical validation for clinical reliability
-- Addressed challenges of class imbalance and feature correlation in medical data
+- Conducted rigorous hypothesis testing and validation for clinical reliability
 
-**Interpretable Silent Speech Recognition**
-- Pioneered electrode mapping framework using Deep Forest's MDI interpretability
-- Demonstrated performance maintenance with reduced electrode sets
-- Achieved significant cost reduction for practical deployment
+## Research Approach
 
-### Low-Rank Adaptation for Efficient Model Deployment
+My research methodology emphasizes:
+- Rapid prototyping and experimental validation
+- Statistical rigor in hypothesis testing
+- Practical applicability and cost-effectiveness
+- Open-source contributions for reproducibility
 
-**MediaPipe Enhancement with LoRA**
-- Adapted Google MediaPipe's MLP layers for robust keypoint detection under occlusion
-- Achieved effective downstream task adaptation with minimal training overhead
-- Optimized for on-device deployment with compact model sizes
+## Publications
 
-## Future Research Directions
+1. Q. Wen†, **X. Zeng†**, Z. Zhou, S. Liu, M. Hosseinzadeh, N. Su, and R. Rawassizadeh, "GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping," arXiv preprint arXiv:2509.01842, 2025. (†: Co-first author, Submitted to MLsys 2026)
 
-### Large Language Models
-- Developing continual learning frameworks enabling knowledge accumulation without forgetting
-- Investigating gradient flow patterns across transformer layers during sequential learning
-- Exploring parameter-efficient methods (LoRA, adapters) that isolate new knowledge
+2. X. Tan, Y. Pan, **X. Zeng**, R. Yang, S.-P. Zhao, and W. Zhao, "Analysis of Dyslipidemia Management Based on the DYSIS-China Study," Manuscript in preparation, 2025.
 
-### Deep Reinforcement Learning
-- Multi-agent systems maintaining coordination while adapting to new environments
-- LLM-guided RL with preserved world knowledge across task transitions
-- Gradient flow analysis in actor-critic architectures
-
-### Vision-Language Models
-- Addressing multimodal alignment challenges during continual learning
-- Preserving cross-modal understanding while acquiring domain-specific capabilities
-
-## Research Philosophy
-
-I believe in conducting research that bridges the gap between theoretical understanding and practical impact. Each project I undertake aims to:
-
-1. **Identify fundamental mechanisms** underlying AI limitations
-2. **Develop principled solutions** grounded in mathematical understanding
-3. **Validate through extensive experimentation** across diverse domains
-4. **Deploy as open-source tools** for community benefit
-
-My goal is to contribute to building truly intelligent, adaptive systems that can learn and evolve throughout their operational lifetime, bringing us closer to artificial general intelligence.
+3. X. Tan, **X. Zeng**, S. Fan, H. Zheng, X. Du, X. Ye, and C. Dai, "Robust and Interpretable Silent Speech Recognition from High-Density sEMG Using Deep Forest," Manuscript in preparation, 2025.
