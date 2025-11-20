@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Dyslipidemia Management Based on the DYSIS-China Study"
 collection: publications
-category: manuscripts
+category: preparation
 permalink: /publication/2025-dyslipidemia-management
 excerpt: 'A comprehensive statistical analysis of dyslipidemia management patterns in China, leveraging machine learning for risk stratification and treatment optimization.'
 date: 2025-02-01

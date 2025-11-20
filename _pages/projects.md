@@ -49,7 +49,7 @@ Developed predictive models for dyslipidemia management analysis using multivari
 - Rigorous validation for clinical reliability
 - Addressed challenges in medical data analysis
 
-**Technical Stack**: Python, R, pandas, scikit-learn
+**Technical Stack**: Python, pandas, scikit-learn
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Robust and Interpretable Silent Speech Recognition from High-Density sEMG Using Deep Forest"
 collection: publications
-category: manuscripts
+category: preparation
 permalink: /publication/2025-silent-speech-recognition
 excerpt: 'We present an interpretable framework for silent speech recognition that achieves robust performance with significantly reduced electrode requirements through Deep Forest-based feature importance analysis.'
 date: 2025-03-01

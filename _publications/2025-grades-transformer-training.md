@@ -1,7 +1,7 @@
 ---
 title: "GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping"
 collection: publications
-category: conferences
+category: papers
 permalink: /publication/2025-grades-transformer-training
 excerpt: 'We present GradES, a novel training optimization method that achieves 30-50% speedup in transformer training through intelligent gradient-based early stopping mechanisms.'
 date: 2025-09-01
