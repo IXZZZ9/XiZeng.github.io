@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - MET CS 767"
+title: "Teaching Assistant - MET CS 767 Advanced Machine Learning and Neural Networks"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-met-cs767
@@ -8,35 +8,27 @@ date: 2025-01-15
 location: "Boston, MA"
 ---
 
-## Advanced Database Management Systems
+## Advanced Machine Learning and Neural Networks
 
 **Role**: Teaching Assistant
 **Semester**: Spring 2025
-**Instructor**: Professor [Name]
-**Students**: 45 graduate students
+**Course**: MET CS 767
+**Institution**: Boston University, Metropolitan College
 
 ### Responsibilities
 
-- **Grading and Assessment**: Evaluate assignments, projects, and examinations with detailed feedback on database design, query optimization, and system implementation
-- **Academic Support**: Conduct weekly office hours to clarify advanced concepts including:
-  - Distributed database architectures
-  - Query optimization strategies
-  - Transaction management and concurrency control
-  - NoSQL systems and CAP theorem
-- **Lab Sessions**: Guide students through practical implementations of:
-  - Database sharding and replication
-  - Performance tuning and indexing strategies
-  - Real-world case studies in big data systems
+- **Assessment and Evaluation**: Evaluate and grade coursework, including assignments, projects, and examinations, providing constructive feedback on machine learning implementations and neural network architectures
+- **Academic Support**: Deliver comprehensive academic support through office hours and supplementary sessions, clarifying advanced concepts for graduate students including:
+  - Deep learning architectures and optimization techniques
+  - Advanced neural network training methodologies
+  - Machine learning theory and practical applications
+  - Model evaluation and performance analysis
+- **Student Mentorship**: Guide students in understanding complex theoretical concepts and their practical implementations in modern machine learning frameworks
 
 ### Teaching Philosophy
 
-I believe in fostering deep understanding through hands-on experience. My approach emphasizes:
-- Connecting theoretical concepts to real-world applications
-- Encouraging critical thinking about system design trade-offs
-- Providing constructive feedback that promotes growth
-
-### Student Feedback
-
-*"Xi's explanations of complex distributed systems concepts made them accessible and practical."*
-
-*"The extra examples and real-world scenarios Xi provided during office hours were invaluable."*
+I am committed to fostering deep understanding by connecting theoretical foundations with practical applications. My approach emphasizes:
+- Breaking down complex concepts into accessible, digestible components
+- Encouraging hands-on experimentation and critical analysis
+- Providing detailed, constructive feedback that promotes continuous improvement
+- Creating an inclusive learning environment that supports diverse learning styles
