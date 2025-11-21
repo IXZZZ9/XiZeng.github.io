@@ -15,9 +15,11 @@ redirect_from:
 I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://sites.google.com/view/rezar) group.
 
 My research interests include:
-- **Efficient Training Methods**: Optimization techniques for transformer models and large-scale ML systems in resource-constrained environments
-- **Interpretable Medical AI**: Explainable AI systems for healthcare applications with emphasis on clinical reliability
-- **Practical Deployment**: Cost-effective AI system deployment with focus on accessibility
+- **Neural Network Optimization Dynamics**: Investigating gradient flow heterogeneity across architectural components and leveraging spectral properties of weight matrices to achieve computationally efficient convergence in over-parameterized networks.
+- **Parameter-Efficient Transfer Learning**: Exploiting low-rank adaptation mechanisms and modular sparsity patterns to enable efficient domain adaptation with minimal parameter updates in resource-constrained environments.
+- **Policy Gradient Optimization**: Advancing trust region methods and proximal policy optimization algorithms through improved KL-divergence constraints and variance reduction techniques for stable on-policy learning in high-dimensional continuous action spaces.
+- **Embodied Multi-Agent Learning**: Developing distributed coordination algorithms and sim-to-real transfer frameworks for robotic systems that learn emergent cooperative behaviors through decentralized policy optimization in partially observable physical environments.
+- **Catastrophic Forgetting Mitigation**: Developing theoretical frameworks for orthogonal gradient projection and identifying invariant subspaces that preserve task-specific knowledge during sequential learning.
 
 
 # 🔥 News
