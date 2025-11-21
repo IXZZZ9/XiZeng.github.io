@@ -23,7 +23,7 @@ repository               : "IXZZZ9/XIZENG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.jpg"
   name             : "Xi Zeng"
   pronouns         : # example: "she/her"
   bio              : "MS Computer Science at Boston University | ML Training Efficiency & Medical AI"
