@@ -114,8 +114,3 @@ MET CS 767 Advanced ML and Neural Network
 
 # 👥 Academic and Professional Membership
 - IEEE Member
-
-
-# 🌐 Languages
-- English (Advanced)
-- Chinese (Native)
