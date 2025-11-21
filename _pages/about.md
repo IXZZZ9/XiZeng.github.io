@@ -27,7 +27,8 @@ Before joining Boston University, I completed my undergraduate studies with a fo
 († indicates equal contribution)
 
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GradES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping
 
