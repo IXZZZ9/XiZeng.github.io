@@ -52,6 +52,8 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
+  cv               : "files/Xi_Zeng_CV.pdf"
+
   # Social media
   artstation       : # Username
   bluesky          : # Username
