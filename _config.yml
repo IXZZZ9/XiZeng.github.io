@@ -13,10 +13,10 @@ title                    : "Xi Zeng"
 title_separator          : "-"
 name                     : &name "Xi Zeng"
 description              : &description "MS Computer Science student at Boston University researching efficient ML training methods and interpretable medical AI"
-url                      : https://XiZeng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://XIZENG.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "IXZZZ9/XiZeng.github.io" # the subpath of your site, e.g. "/blog"
-repository               : ""
+baseurl                  : "https://IXZZZ9.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "/XIZENG.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
