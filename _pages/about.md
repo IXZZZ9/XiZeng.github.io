@@ -14,8 +14,6 @@ redirect_from:
 
 I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://sites.google.com/view/rezar) group. My research focuses on efficient training methods for transformers and interpretable medical AI systems, emphasizing practical approaches to improve training efficiency and develop reliable AI applications in healthcare.
 
-Before joining Boston University, I completed my undergraduate studies with computer science.
-
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 GradES paper submitted to MLsys 2026!
@@ -58,7 +56,7 @@ X. Tan, **Xi Zeng**, S. Fan, H. Zheng, X. Du, X. Ye, and C. Dai
 
 Analysis of Dyslipidemia Management Based on the DYSIS-China Study
 
-X. Tan, Y. Pan, **Xi Zeng**, R. Yang, S.-P. Zhao, and W. Zhao
+X. Tan, Y. Pan, **Xi Zeng**, R. Yang, S. Zhao, and W. Zhao
 
 
 - Large-scale analysis of dyslipidemia management patterns in Chinese populations
