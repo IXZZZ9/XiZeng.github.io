@@ -14,13 +14,11 @@ redirect_from:
 
 I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://sites.google.com/view/rezar) group. My research focuses on efficient training methods for transformers and interpretable medical AI systems, emphasizing practical approaches to improve training efficiency and develop reliable AI applications in healthcare.
 
-Before joining Boston University, I completed my undergraduate studies with a focus on computer science and machine learning applications.
+Before joining Boston University, I completed my undergraduate studies with computer science.
 
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 GradES paper submitted to MLsys 2026!
-- *2025.03*: &nbsp;📝 Manuscript on interpretable silent speech recognition in preparation
-- *2025.02*: &nbsp;📝 Manuscript on dyslipidemia management analysis in preparation
 
 # 📝 Publications
 
@@ -36,11 +34,6 @@ Q. Wen†, **Xi Zeng†**, Z. Zhou, S. Liu, M. Hosseinzadeh, N. Su, and R. Rawas
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-fedcba?style=flat&logo=github)](https://github.com/IXZZZ9/GradES)![](https://img.shields.io/github/stars/IXZZZ9/GradES?style=social) [![arXiv](https://img.shields.io/badge/arXiv-2509.01842-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2509.01842)
-
-- Novel gradient-based early stopping criterion for transformer training
-- 30-50% reduction in training time with maintained or improved performance
-- Open-source implementation on GitHub and PyPI
-
 </div>
 
 
