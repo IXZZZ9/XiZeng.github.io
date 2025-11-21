@@ -22,14 +22,14 @@ My research interests include:
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 GradES paper submitted to MLsys 2026!
+- *2025.9*: &nbsp;🎉🎉 GradES paper is available on arXiv!
 
 # 📝 Publications
 
 († indicates equal contribution)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/GradES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/GradES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping
