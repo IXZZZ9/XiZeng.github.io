@@ -12,12 +12,11 @@ redirect_from:
 
 # 👤 About Me
 
-I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://sites.google.com/view/rezar) group. My research focuses on efficient training methods for transformers and interpretable medical AI systems, emphasizing practical approaches to improve training efficiency and develop reliable AI applications in healthcare.
+I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://sites.google.com/view/rezar) group.
 
 My research interests include:
 - **Efficient Training Methods**: Optimization techniques for transformer models and large-scale ML systems in resource-constrained environments
 - **Interpretable Medical AI**: Explainable AI systems for healthcare applications with emphasis on clinical reliability
-- **Multi-modal Learning**: Fusion strategies for medical applications combining diverse data sources
 - **Practical Deployment**: Cost-effective AI system deployment with focus on accessibility
 
 
