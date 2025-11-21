@@ -62,7 +62,6 @@ X. Tan, Y. Pan, **Xi Zeng**, R. Yang, S.-P. Zhao, and W. Zhao
 
 
 - Large-scale analysis of dyslipidemia management patterns in Chinese populations
-- Machine learning models for risk stratification and treatment outcome prediction
 - Evidence-based recommendations for improving clinical practice
 
 </div>
