@@ -27,8 +27,7 @@ Before joining Boston University, I completed my undergraduate studies with a fo
 († indicates equal contribution)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to MLsys 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
 GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping
 
@@ -46,8 +45,7 @@ Q. Wen†, **Xi Zeng†**, Z. Zhou, S. Liu, M. Hosseinzadeh, N. Su, and R. Rawas
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
 Robust and Interpretable Silent Speech Recognition from High-Density sEMG Using Deep Forest
 
@@ -63,8 +61,7 @@ X. Tan, **Xi Zeng**, S. Fan, H. Zheng, X. Du, X. Ye, and C. Dai
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
 Analysis of Dyslipidemia Management Based on the DYSIS-China Study
 
@@ -80,8 +77,8 @@ X. Tan, Y. Pan, **Xi Zeng**, R. Yang, S.-P. Zhao, and W. Zhao
 
 
 # 📖 Education
-- *2023.09 - present*, M.Sc in Computer Science, Boston University 🇺🇸, Boston, MA
-- *2019.09 - 2023.06*, B.Sc, Undergraduate Studies 🎓
+- *2024 - 2025*, Master of Computer Science, Boston University 🇺🇸, Boston, MA
+- *2021 - 2024*, Bachelor of Art, Computer Science, Rutgers University 🎓, Piscataway, NJ
 
 
 # 🔬 Research Interests
@@ -93,25 +90,39 @@ My research focuses on:
 - **Practical Deployment**: Cost-effective AI system deployment with focus on accessibility
 
 
+# 📚 Teaching Experience
+
+**Teaching Assistant** @ [Boston University](https://www.bu.edu/)
+*2025 - Present*
+MET CS 767 Advanced ML and Neural Network
+- Evaluate and grade coursework, deliver academic support, and clarify advanced concepts for graduate students
+
+
 # 💻 Research Experience
 
-**Research Assistant** @ [Boston University](https://www.bu.edu/cs/)
-*2023.09 - present*
-Advisor: [Prof. Reza Rawassizadeh](https://www.bu.edu/cs/profiles/reza-rawassizadeh/)
-- Developing efficient training methods for transformer models
-- Working on interpretable medical AI systems
-- Focus on practical applications and open-source contributions
+**Research Assistant, Professor Reza Rawassizadeh's Group** @ [Boston University](https://www.bu.edu/cs/)
+*2025 - Present*
+- Presented weekly reviews of recent publications from leading ML/AI conferences and journals, stimulating group discussion and idea sharing
+- Rapidly implemented prototypes and experimented with novel concepts, reporting findings to guide research direction
+- Led the implementation and experimental design for promising projects (GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping, submitted to MLsys)
+- Managed code refactoring, optimization and public release on platforms
+
+**Research Assistant** @ [The Center for Intelligent Medical Electronics, Fudan University](https://www.fudan.edu.cn/)
+*2024 - Present*
+- Applied statistical methods to determine if experimental data significantly differed from proposed hypotheses in intelligent medical electronics research
+- Utilized Deep Forest algorithm's MDI interpretability to map importance scores and select the most crucial electrodes
+- Compared performance of Deep Forest (as baseline), models using all features, and models trained only on selected important electrodes
+- Demonstrated via statistical analysis that our interpretability approach achieves significant performance gains and enables accuracy with fewer electrodes at lower cost
 
 
-# 💬 Academic Service
-
-**Conference Reviewer**:
-CVPR 2025 | ICLR 2025 | AAAI 2025 | NeurIPS 2024
-
-**Journal Reviewer**:
-IEEE TPAMI | IEEE TMM
+# 🎖 Grants and Awards
+- Dean's List, Kent State University
 
 
-# 🎖 Honors and Awards
-- *2023.06* Outstanding Thesis Award
-- *2022.09* Academic Excellence Scholarship
+# 👥 Academic and Professional Membership
+- IEEE Member
+
+
+# 🌐 Languages
+- English (Advanced)
+- Chinese (Native)
