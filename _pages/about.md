@@ -14,12 +14,11 @@ redirect_from:
 
 I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://sites.google.com/view/rezar) group.
 
-My research interests include:
-- **Neural Network Optimization Dynamics**: Investigating gradient flow heterogeneity across architectural components and leveraging spectral properties of weight matrices to achieve computationally efficient convergence in over-parameterized networks.
-- **Parameter-Efficient Transfer Learning**: Exploiting low-rank adaptation mechanisms and modular sparsity patterns to enable efficient domain adaptation with minimal parameter updates in resource-constrained environments.
-- **Policy Gradient Optimization**: Advancing trust region methods and proximal policy optimization algorithms through improved KL-divergence constraints and variance reduction techniques for stable on-policy learning in high-dimensional continuous action spaces.
-- **Embodied Multi-Agent Learning**: Developing distributed coordination algorithms and sim-to-real transfer frameworks for robotic systems that learn emergent cooperative behaviors through decentralized policy optimization in partially observable physical environments.
-- **Catastrophic Forgetting Mitigation**: Developing theoretical frameworks for orthogonal gradient projection and identifying invariant subspaces that preserve task-specific knowledge during sequential learning.
+My research interests lie at the intersection of Large Language Models (LLMs) and Reinforcement Learning, with a focus on:
+- **Efficient LLM/VLM Training & Fine-tuning**: Investigating sparse attention mechanisms and low-rank adaptation (LoRA) techniques to accelerate convergence in billion-scale multimodal models. My work aims to optimize memory bandwidth and computational throughput for training VLMs in resource-constrained environments without compromising representational fidelity.
+- **Deep Reinforcement Learning (DRL) in LLMs**: Advancing alignment techniques beyond standard RLHF by exploring novel policy optimization algorithms. My research focuses on stabilizing reward modeling and reducing variance in high-dimensional token spaces to improve reasoning capabilities and safety constraints.
+- **Multi-Agent Systems & Theory of Mind**: Developing decentralized coordination frameworks where LLM-based agents exhibit emergent cooperative behaviors. My work involves optimizing communication protocols and consensus mechanisms to enable complex task decomposition and collaborative problem-solving among autonomous agents.
+- **Continual Learning & Catastrophic Forgetting**: Addressing the stability-plasticity dilemma in sequential LLM fine-tuning through orthogonal gradient projection methods and invariant subspace identification. My research aims to preserve pre-trained general knowledge while adapting models to domain-specific downstream tasks.
 
 
 # 🔥 News
